@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Scissor_paper</string>
+    <string name="paper">Paper!</string>
+    <string name="rock">Rock!</string>
+    <string name="scissors">Scissors!</string>
+
+
+    <string-array name="choices_array">
+        <item>Options</item>
+        <item>Paper</item>
+        <item>Rock</item>
+        <item>Scissors</item>
+    </string-array>
 </resources>
